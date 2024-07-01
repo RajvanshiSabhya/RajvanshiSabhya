@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sabhya-rajvanshi-09129328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabhya rajvanshi" height="30" width="40" /></a><br/>
-<a href="https://fb.com/sabhya_rajvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabhya_rajvanshi" height="30" width="40" /></a><br/>
-<a href="https://instagram.com/sabhya_rajvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabhya_rajvanshi" height="30" width="40" /></a><br/>
+<a href="https://www.linkedin.com/in/sabhya-rajvanshi-09129328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabhya rajvanshi" height="30" width="40" /></a><br/><br/>
+<a href="https://www.facebook.com/profile.php?id=100093996049658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabhya_rajvanshi" height="30" width="40" /></a><br/><br/>
+<a href="https://instagram.com/sabhya_rajvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabhya_rajvanshi" height="30" width="40" /></a><br/><br/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
