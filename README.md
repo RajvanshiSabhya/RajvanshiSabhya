@@ -1,18 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sabhya Rajvanshi</h1>
-<h3 align="center">A passionate learner in the field of technology</h3>
+# 👋 Hi, I'm Sabhya Rajvanshi
 
-- 🌱 I’m currently learning *Web Development*
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=sabhyarajvanshi&color=blueviolet)
+  ![GitHub Followers](https://img.shields.io/github/followers/sabhyarajvanshi?style=social)
+  
+</div>
 
-- 👯 I’m looking to collaborate on *open source projects*
+## 🚀 About Me
 
-- 📫 How to reach me : *rajvanshisabhya9@gmail.com*
+I'm a passionate learner in the field of technology, currently focusing on Web Development. I'm enthusiastic about collaborating on open source projects and continuously expanding my knowledge in the tech world.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sabhya-rajvanshi-09129328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabhya rajvanshi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100093996049658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabhya_rajvanshi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sabhyarajvanshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabhya_rajvanshi" height="30" width="40" /></a>
-</p>
+## 🌱 Currently Learning
+- Web Development
+- Open Source Contribution
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📫 Get in Touch
+- Email: [rajvanshisabhya9@gmail.com](mailto:rajvanshisabhya9@gmail.com)
+
+## 🤝 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sabhya-rajvanshi-09129328b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100093996049658" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/sabhyarajvanshi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+## 🛠️ Languages and Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabhyarajvanshi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhyarajvanshi&theme=radical" alt="GitHub Streak"/>
+</div>
