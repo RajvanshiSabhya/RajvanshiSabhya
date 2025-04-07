@@ -40,7 +40,10 @@ This repository showcases my projects, experiments, and coding journey, covering
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,numpy,pandas,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,mysql,mongodb" />
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </div>
 
 ## 📊 GitHub Stats
