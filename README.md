@@ -10,14 +10,16 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Passionate+Learner;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Passionate+Learner;Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-I'm a passionate learner in the field of technology, currently focusing on Web Development. I'm enthusiastic about collaborating on open source projects and continuously expanding my knowledge in the tech world.
+I'm a CS undergrad with a passion for AI, Machine Learning, and Web Development. I love turning ideas into reality through code and exploring new technologies.
+
+This repository showcases my projects, experiments, and coding journey, covering everything from AI-driven applications to full-stack web development and DSA in C++.
 
 ## 🌱 Currently Learning
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Web+Development;Open+Source+Contribution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Web+Development;Machine+Learning+Development" alt="Typing SVG" />
 </div>
 
 ## 📫 Get in Touch
@@ -29,9 +31,6 @@ I'm a passionate learner in the field of technology, currently focusing on Web D
   <a href="https://www.linkedin.com/in/sabhya-rajvanshi-09129328b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100093996049658" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
   <a href="https://www.instagram.com/sabhyarajvanshi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -40,7 +39,7 @@ I'm a passionate learner in the field of technology, currently focusing on Web D
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,c++,numpy,pandas,streamlit,scikit-learn,mysql,mongodb" />
 </div>
 
 ## 📊 GitHub Stats
