@@ -39,7 +39,7 @@ This repository showcases my projects, experiments, and coding journey, covering
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,c++,numpy,pandas,streamlit,scikit-learn,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,c++,numpy,pandas,mysql,mongodb" />
 </div>
 
 ## 📊 GitHub Stats
