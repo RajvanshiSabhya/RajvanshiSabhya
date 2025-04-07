@@ -3,7 +3,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sabhyarajvanshi&color=blueviolet&style=for-the-badge)
-  ![GitHub Followers](https://img.shields.io/github/followers/sabhyarajvanshi?style=for-the-badge&label=Followers&color=blueviolet)
+  ![GitHub Followers](https://img.shields.io/github/followers/sabhyarajvanshi?style=for-the-badge&label=Followers&color=blueviolet&labelColor=black&message=5)
+  ![Total Commits](https://img.shields.io/badge/Total%20Commits-33-blueviolet?style=for-the-badge&labelColor=black)
   
 </div>
 
@@ -39,13 +40,13 @@ This repository showcases my projects, experiments, and coding journey, covering
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,c++,numpy,pandas,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,numpy,pandas,mysql,mongodb" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabhyarajvanshi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabhyarajvanshi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
