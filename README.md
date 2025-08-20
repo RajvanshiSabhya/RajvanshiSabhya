@@ -86,8 +86,8 @@ What I'm up to:
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Graph
 
 <div align="center">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/RajvanshiSabhya/RajvanshiSabhya/output/github-contribution-grid-snake.svg"/>
+  <img src="https://ghchart.rshah.org/2f81f7/RajvanshiSabhya" alt="Contribution Graph" />
 </div>
