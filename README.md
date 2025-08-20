@@ -1,4 +1,4 @@
-# Hi, I'm Sabhya Rajvanshi
+# Hi 👋, I'm Sabhya Rajvanshi
 
 ## 🚀 About Me
 
