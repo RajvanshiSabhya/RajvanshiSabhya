@@ -12,9 +12,6 @@
 
 I'm a CS undergrad passionate about **AI, Machine Learning, and Web Development**.  
 I love turning ideas into reality through code, solving real-world problems, and exploring cutting-edge technologies.
-
-This repository showcases my **projects, experiments, and coding journey**,  
-covering everything from AI-driven applications to full-stack development and DSA in C++.
 ---
 
 
@@ -23,7 +20,7 @@ What I'm up to:
 🌱 Learning **Machine Learning & Deep Learning**  
 👯 Looking to collaborate on Open Source Projects  
 💬 Ask me about **Python, DSA, AI/ML**  
-📫 Reach me at **[rajvanshisabhya9@gmail.com](mailto:rajvanshisabhya9@gmail.com)**
+📫 Reach me at **[rajvanshisabhya9@gmail.com :(mailto:rajvanshisabhya9@gmail.com)**
 
 ---
 
