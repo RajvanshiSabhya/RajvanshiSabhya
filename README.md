@@ -1,30 +1,34 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Sabhya Rajvanshi
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=sabhyarajvanshi&color=blueviolet&style=for-the-badge)
-  ![GitHub Followers](https://img.shields.io/github/followers/sabhyarajvanshi?style=for-the-badge&label=Followers&color=blueviolet&labelColor=black&message=5)
-  ![Total Commits](https://img.shields.io/badge/Total%20Commits-33-blueviolet?style=for-the-badge&labelColor=black)
-  
-</div>
+# Hi, I'm Sabhya Rajvanshi
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Passionate+Learner;Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Problem+Solver;Coder;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-I'm a CS undergrad with a passion for AI, Machine Learning, and Web Development. I love turning ideas into reality through code and exploring new technologies.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coder GIF"/>
+</div>
 
-This repository showcases my projects, experiments, and coding journey, covering everything from AI-driven applications to full-stack web development and DSA in C++.
+I'm a CS undergrad passionate about **AI, Machine Learning, and Web Development**.  
+I love turning ideas into reality through code, solving real-world problems, and exploring cutting-edge technologies.
+
+This repository showcases my **projects, experiments, and coding journey**,  
+covering everything from AI-driven applications to full-stack development and DSA in C++.
+
+---
 
 ## 🌱 Currently Learning
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Web+Development;Machine+Learning+Development" alt="Typing SVG" />
 </div>
 
+---
+
 ## 📫 Get in Touch
-- Email: [rajvanshisabhya9@gmail.com](mailto:rajvanshisabhya9@gmail.com)
+- ✉️ **Email:** [rajvanshisabhya9@gmail.com](mailto:rajvanshisabhya9@gmail.com)
+
+---
 
 ## 🤝 Connect With Me
 
@@ -37,14 +41,32 @@ This repository showcases my projects, experiments, and coding journey, covering
   </a>
 </div>
 
+---
+
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,mysql,mongodb" />
-  <br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### **Machine Learning & Data Science**
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+
+### **Database**
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### **Tools & Others**
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -56,14 +78,18 @@ This repository showcases my projects, experiments, and coding journey, covering
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhyarajvanshi&theme=radical" alt="GitHub Streak"/>
 </div>
 
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabhyarajvanshi&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabhyarajvanshi&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </div>
+
+---
 
 ## 🎯 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
