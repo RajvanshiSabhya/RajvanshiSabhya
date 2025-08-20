@@ -68,7 +68,41 @@ covering everything from AI-driven applications to full-stack development and DS
 
 ---
 
-## 📊 GitHub Stats & Contribution
+## 🚀 GitHub Analytics
+
+<div align="center">
+
+| 🏆 Metrics | Value |
+|------------|-------|
+| **Total Contributions** | ![Total Contributions](https://img.shields.io/badge/Contributions-94-blue) |
+| **Current Streak** | ![Current Streak](https://img.shields.io/badge/Streak-1🔥-blueviolet) |
+| **Longest Streak** | ![Longest Streak](https://img.shields.io/badge/Longest_Streak-3-blue) |
+
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhyarajvanshi&layout=compact&theme=radical)
+</div>
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&column=3" alt="GitHub Trophies"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <table>
@@ -76,21 +110,5 @@ covering everything from AI-driven applications to full-stack development and DS
       <td><img src="https://github-readme-stats.vercel.app/api?username=sabhyarajvanshi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhyarajvanshi&theme=radical" alt="GitHub Streak"/></td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabhyarajvanshi&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
-      </td>
-    </tr>
   </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blueviolet&height=100&section=footer" alt="Footer"/>
 </div>
