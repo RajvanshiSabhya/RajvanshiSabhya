@@ -83,16 +83,6 @@ Java         ██████░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🏅 GitHub Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&column=3" alt="GitHub Trophies"/></td>
-    </tr>
-  </table>
-</div>
-
 ## 📈 Contributions
 
 - 🔥 **Total Contributions**: 81 *(Nov 2023 – Present)*  
