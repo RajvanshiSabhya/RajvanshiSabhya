@@ -69,7 +69,7 @@ What I'm up to:
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajvanshiSabhya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&text_color=ffffff" alt="GitHub Stats"/>
@@ -91,6 +91,5 @@ What I'm up to:
 <div align="center">
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/RajvanshiSabhya/RajvanshiSabhya/output/github-contribution-grid-snake.svg"/>
 </div>
-
 
 ---
