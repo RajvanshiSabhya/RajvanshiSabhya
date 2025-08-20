@@ -20,7 +20,7 @@ What I'm up to:
 🌱 Learning **Machine Learning & Deep Learning**  
 👯 Looking to collaborate on Open Source Projects  
 💬 Ask me about **Python, DSA, AI/ML**  
-📫 Reach me at **[rajvanshisabhya9@gmail.com :(mailto:rajvanshisabhya9@gmail.com)**
+📫 Reach me at: **[rajvanshisabhya9@gmail.com]**
 
 ---
 
