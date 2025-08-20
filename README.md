@@ -18,15 +18,20 @@ covering everything from AI-driven applications to full-stack development and DS
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 What I'm Up To
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Web+Development;Machine+Learning+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Working+on+AI+%26+ML+Applications;Learning+Machine+Learning+%26+Deep+Learning" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📫 Get in Touch
-- ✉️ **Email:** [rajvanshisabhya9@gmail.com](mailto:rajvanshisabhya9@gmail.com)
+
+What I'm up to:  
+🔭 Working on **AI/ML Applications**  
+🌱 Learning **Machine Learning & Deep Learning**  
+👯 Looking to collaborate on Open Source Projects  
+💬 Ask me about **Python, DSA, AI/ML**  
+📫 Reach me at **[rajvanshisabhya9@gmail.com](mailto:rajvanshisabhya9@gmail.com)**
 
 ---
 
@@ -91,3 +96,5 @@ covering everything from AI-driven applications to full-stack development and DS
     </tr>
   </table>
 </div>
+
+---
