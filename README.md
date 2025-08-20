@@ -86,8 +86,8 @@ What I'm up to:
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/RajvanshiSabhya" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajvanshiSabhya&theme=react-dark&hide_border=true&bg_color=0d1117&line=2f81f7&point=ffffff" alt="Contribution Graph"/>
 </div>
