@@ -65,17 +65,24 @@ What I'm up to:
 
 ---
 
-## 🚀 GitHub Analytics
+# 📊 GitHub Analytics
 
-<div align="center">
+### 🚀 My GitHub Stats
+- ⭐ **Total Stars Earned**: 0  
+- 📌 **Total Commits**: 33  
+- 🔀 **Total PRs**: 0  
+- 🐞 **Total Issues**: 0  
+- 📆 **Contributed to (last year)**: 0  
 
-| 🏆 Metrics | Value |
-|------------|-------|
-| **Total Contributions** | ![Total Contributions](https://img.shields.io/badge/Contributions-94-blue) |
-| **Current Streak** | ![Current Streak](https://img.shields.io/badge/Streak-1🔥-blueviolet) |
-| **Longest Streak** | ![Longest Streak](https://img.shields.io/badge/Longest_Streak-3-blue) |
+---
 
-</div>
+### 📊 Most Used Languages
+```text
+Python       ████████████░░░░░░░░░░░   35%  
+HTML         ████████░░░░░░░░░░░░░░░   25%  
+CSS          ██████░░░░░░░░░░░░░░░░░   20%  
+Java         ██████░░░░░░░░░░░░░░░░░   20
+```
 
 ---
 
