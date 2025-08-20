@@ -93,4 +93,22 @@ Java         ██████░░░░░░░░░░░░░░░░�
   </table>
 </div>
 
+## 📈 Contributions
+
+- 🔥 **Total Contributions**: 81 *(Nov 2023 – Present)*  
+- 🔥 **Current Streak**: 1 day  
+- 🔥 **Longest Streak**: 1 day  
+
+---
+
+## 🏆 GitHub Trophies
+
+- 🖊️ **Commits** → Junior Committer *(33 commits)*  
+- 📦 **Repositories** → New Repo Creator  
+- 🧑‍💻 **Experience** → Beginner Dev  
+- 👥 **Followers** → First Friend  
+- ⭐ **Stars** → Unranked *(0 stars yet)*  
+- 🐞 **Issues** → Unranked  
+
+---
 ---
