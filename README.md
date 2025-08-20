@@ -15,14 +15,6 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 This repository showcases my **projects, experiments, and coding journey**,  
 covering everything from AI-driven applications to full-stack development and DSA in C++.
-
----
-
-## 🌱 What I'm Up To
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Working+on+AI+%26+ML+Applications;Learning+Machine+Learning+%26+Deep+Learning" alt="Typing SVG" />
-</div>
-
 ---
 
 
