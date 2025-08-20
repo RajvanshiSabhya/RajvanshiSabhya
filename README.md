@@ -72,8 +72,9 @@ What I'm up to:
 # 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajvanshiSabhya&theme=github-compact&bg_color=0d1117&color=70a5fd&line=38bdae&point=ff757f&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/github-metrics.svg" alt="GitHub Metrics" />
 </div>
+
 
 
 ---
