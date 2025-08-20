@@ -82,33 +82,12 @@ covering everything from AI-driven applications to full-stack development and DS
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhyarajvanshi&layout=compact&theme=radical)
-</div>
-
----
-
 ## 🏅 GitHub Achievements
 
 <div align="center">
   <table>
     <tr>
       <td><img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&column=3" alt="GitHub Trophies"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=sabhyarajvanshi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhyarajvanshi&theme=radical" alt="GitHub Streak"/></td>
     </tr>
   </table>
 </div>
