@@ -68,28 +68,25 @@ covering everything from AI-driven applications to full-stack development and DS
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabhyarajvanshi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhyarajvanshi&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabhyarajvanshi&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</div>
-
----
-
-## 🎯 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=sabhyarajvanshi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhyarajvanshi&theme=radical" alt="GitHub Streak"/></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabhyarajvanshi&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-profile-trophy.vercel.app/?username=sabhyarajvanshi&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
