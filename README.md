@@ -69,42 +69,28 @@ What I'm up to:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-### 🚀 My GitHub Stats
-- ⭐ **Total Stars Earned**: 0  
-- 📌 **Total Commits**: 33  
-- 🔀 **Total PRs**: 0  
-- 🐞 **Total Issues**: 0  
-- 📆 **Contributed to (last year)**: 0  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajvanshiSabhya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&text_color=ffffff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvanshiSabhya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff" alt="Top Languages"/>
+</div>
 
----
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajvanshiSabhya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=2f81f7&ring=2f81f7&fire=2f81f7&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=2f81f7&sideNums=2f81f7" alt="GitHub Streak"/>
+</div>
 
-### 📊 Most Used Languages
-```text
-Python       ████████████░░░░░░░░░░░   35%  
-HTML         ████████░░░░░░░░░░░░░░░   25%  
-CSS          ██████░░░░░░░░░░░░░░░░░   20%  
-Java         ██████░░░░░░░░░░░░░░░░░   20
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajvanshiSabhya&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 📈 Contributions
+## 📈 Contribution Graph
 
-- 🔥 **Total Contributions**: 81 *(Nov 2023 – Present)*  
-- 🔥 **Current Streak**: 1 day  
-- 🔥 **Longest Streak**: 1 day  
+<div align="center">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/RajvanshiSabhya/RajvanshiSabhya/output/github-contribution-grid-snake.svg"/>
+</div>
 
----
-
-## 🏆 GitHub Trophies
-
-- 🖊️ **Commits** → Junior Committer *(33 commits)*  
-- 📦 **Repositories** → New Repo Creator  
-- 🧑‍💻 **Experience** → Beginner Dev  
-- 👥 **Followers** → First Friend  
-- ⭐ **Stars** → Unranked *(0 stars yet)*  
-- 🐞 **Issues** → Unranked  
 
 ---
