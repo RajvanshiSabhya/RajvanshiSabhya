@@ -71,7 +71,19 @@ What I'm up to:
 
 # 📊 GitHub Analytics  
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajvanshiSabhya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=38bdae&text_color=ffffff" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvanshiSabhya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff" alt="Top Languages"/> </div> <div align="center"> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajvanshiSabhya&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=ff757f&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=38bdae&sideNums=70a5fd" alt="GitHub Streak"/> </div>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajvanshiSabhya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvanshiSabhya&layout=compact&theme=tokyonight" alt="Top Languages"/>
+
+  <!-- Streak Stats -->
+  <img width="90%" src="https://streak-stats.demolab.com?user=RajvanshiSabhya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
 
 
 ---
