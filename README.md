@@ -79,9 +79,6 @@ What I'm up to:
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvanshiSabhya&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
-  <!-- Streak Stats -->
-  <img width="90%" src="https://streak-stats.demolab.com?user=RajvanshiSabhya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
 
